@@ -1,1 +1,3 @@
-Ah... Hi, I am a feature
+Ah... Hi, I am a feature and a special one
+
+the second line
